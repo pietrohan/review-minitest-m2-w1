@@ -24,20 +24,8 @@ public class Main {
         OfficialStaff officialStaff[] = {phong, huy, luong};
         Parttime parttime[] = {banh, hang, han, hoang};
 
-//        test ep kieu
-//        System.out.println(p.payCut());
-//        System.out.println(((Parttime) Banh).checkRank());
-//        System.out.println(p.checkRank());
 
-//          Luong fulltime test rank
-//        System.out.println(phong.checkRank());
-//        System.out.println(huy.checkRank());
-//        System.out.println(luong.checkRank());
 
-//          Luong Parttime test rank
-//        System.out.println(hang.checkRank());
-//        System.out.println(han.checkRank());
-//        System.out.println(banh.checkRank());
 
 
 //        Luong trung binh cua nhan vien
